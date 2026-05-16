@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "GPS_devboard.kicad_prl",
+    "filename": "LC86G_devboard.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
